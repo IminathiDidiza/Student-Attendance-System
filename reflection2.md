@@ -1,0 +1,11 @@
+## Reflection
+Throughout the project, there were a number of significant obstacles that needed to be carefully considered in order to translate the requirements of the Student Attendance Tracking System into use cases and test cases.
+
+It was necessary to strike a balance between granularity and comprehensiveness in order to determine the proper scope for use cases. I have to choose between making more specialized use cases like "Record Individual Attendance" or more general ones like "Manage Attendance." I selected particular use cases that preserved unambiguous traceability to functional requirements without unduly fragmenting the system architecture by comparing each possible use case to the needs of the stakeholders from Assignment 4.
+
+It was necessary to carefully analyze dependencies in order to represent the relationships between use cases. For instance, the choice of whether to add "Request Excused Absence" or extend "Approve Excused Absence" had a big influence on how developers implemented feature dependencies and how stakeholders understood the system flow.
+
+There were particular modeling difficulties with the biometric and mobile verification components. In order to represent the mobile application's unique behaviors and limitations, I chose to model it as an independent actor with its own interactions as opposed to merely an interface.
+In a similar vein, security and usability considerations had to be carefully taken into account while including biometric verification into the attendance procedure.I have to strike a balance between thoroughness and usefulness when creating test cases. I concentrated on tests that addressed major failure scenarios and confirmed basic operation rather than compiling a comprehensive list that covered every edge case. Designing meaningful tests for non-functional criteria, such as security and performance, needed thinking beyond straightforward function verification to take into account system behavior under attack or stress.
+
+Another major problem was keeping the design consistent with earlier assignments while letting it develop organically. As the use cases became more detailed, I found that several of the previously stated requirements needed to be improved in order to accurately depict the desired behavior of the system.
