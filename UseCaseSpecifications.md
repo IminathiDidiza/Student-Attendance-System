@@ -88,7 +88,7 @@ Other Flows:
 Missing Student: Include the option for students → Confirm your enrollment.
 Technical Problem: Recovery of autosave → Resuming recording
 
-Use Case 5: View Class Attendance Reports
+## Use Case 5: View Class Attendance Reports
 
 Description: Analytics for course attendance patterns.
 
