@@ -1,4 +1,7 @@
-![Editor | Mermaid Chart-2025-04-07-013954](https://github.com/user-attachments/assets/477b2751-77e3-4efd-b061-61ed66841cd8)
+
+![Editor | Mermaid Chart-2025-04-07-014138](https://github.com/user-attachments/assets/350ee715-c152-4c54-985e-f0af6a97bb57)
+
+
 ## Key States and Transitions:
 
 Pending: Initial state for an attendance record before the session
